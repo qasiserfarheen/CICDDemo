@@ -52,7 +52,7 @@
 						<username>${anypoint.username}</username>
 						<password>${anypoint.password}</password>
 						<workerType>Micro</workerType>
-						<applicationName>cicd-poc-sandbox</applicationName>
+						<applicationName>cicd-poc-sandbox1</applicationName>
 						<redeploy>true</redeploy>
 						<environment>Sandbox</environment>
 						<properties>
