@@ -52,9 +52,9 @@
 						<username>${anypoint.username}</username>
 						<password>${anypoint.password}</password>
 						<workerType>Micro</workerType>
-						<applicationName>rtg-coupon-exp-dev-oz</applicationName>
+						<applicationName>cicd-poc-sandbox</applicationName>
 						<redeploy>true</redeploy>
-						<environment>Dev</environment>
+						<environment>Sandbox</environment>
 						<properties>
 							<https.port>8082</https.port>
 						</properties>
