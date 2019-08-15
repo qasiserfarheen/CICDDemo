@@ -22,7 +22,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	message: "Hello from Craft's demo app."
+	message: "Hello from demo app."
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
